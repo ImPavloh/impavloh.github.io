@@ -1,6 +1,6 @@
 {
-  "short_name": "PavWeb",
-  "name": "Pabloh",
+  "short_name": "Pavloh",
+  "name": "Pavloh",
   "icons": [
     {
       "src": "favicon.ico",
@@ -10,6 +10,11 @@
   ],
   "start_url": ".",
   "display": "standalone",
+  "background_color": "#ffffff",
   "theme_color": "#000000",
-  "background_color": "#ffffff"
+  "orientation": "portrait",
+  "description": "Software & AI developer, editor, and content creator.",
+  "scope": "/",
+  "lang": "en-US",
+  "prefer_related_applications": false
 }
